@@ -4,7 +4,7 @@ Hi! This project was inspired by the **Gamestop** Fiasco in 2019. Like many, I g
 
 ## What does this project do?
 
-It's a very simple project. It scrapes options data from **Barchart.com** which then is transformed, analyzed, and summarized into a end-of-day email report.
+It scrapes options data from **Barchart.com** which then is transformed, analyzed, and summarized into a end-of-day email report.
 
 ## How did you do it?
 
