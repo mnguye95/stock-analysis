@@ -1,4 +1,4 @@
-# Stock Analysis!
+# Stock Options Analysis!
 
 Hi! This project was inspired by the **Gamestop** Fiasco in 2019. Like many, I got interested in trading when the pandemic, resulting in the biggest bull market we've had in a while. Upon losing some money, I realized I needed more data to make smart and calculated decisions.
 
