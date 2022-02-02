@@ -1,10 +1,10 @@
 # Stock Options Analysis!
 
-Hi! This project was inspired by the **Gamestop** Fiasco in 2019. Like many, I got interested in trading when the pandemic, resulting in the biggest bull market we've had in a while. Upon losing some money, I realized I needed more data to make smart and calculated decisions.
+Hi! This project was inspired by the **Gamestop** fiasco in 2019. Like many others, I began trading during the pandemic where I realized I'd need more data to make better decisions.
 
 ## What does this project do?
 
-It scrapes options data from **Barchart.com** which then is transformed, analyzed, and summarized into a end-of-day email report.
+It scrapes options data from **Barchart.com** which is then transformed, analyzed, and summarized into an end-of-day email report.
 
 ## How did you do it?
 
