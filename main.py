@@ -129,7 +129,7 @@ def send_email(file_data, shorts_data, file_path):
     subject = "Options Report {}".format(today_date)
     sender_email = "uoa.alerts@gmail.com"
     # receiver_email = "kevinkhoa22@gmail.com"
-    password = "Code3200!"
+    password = ""
 
     # Creating Body of
     text = """
